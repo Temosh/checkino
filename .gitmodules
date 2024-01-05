@@ -1,0 +1,6 @@
+[submodule "checkino-web"]
+	path = checkino-web
+	url = https://github.com/Temosh/checkino-web.git
+[submodule "checkino-app-service"]
+	path = checkino-app-service
+	url = https://github.com/Temosh/checkino-app-service.git
